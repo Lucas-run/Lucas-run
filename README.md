@@ -8,6 +8,6 @@ Bem-vindo ao meu perfil! Sou desenvolvedor web!
 
 ## Minhas habilidades
 - Linguagens: JavaScript, TypeScript, python;
-- Frontend: React, Next.js, Sass, Bootstrap;
-- Backend: Node, Express;
+- Frontend: React, Next.js, Tailwindcss, Bootstrap;
+- Backend: Node, Express, prisma;
 - Banco de Dados: PostgreSQL, MongoDB
